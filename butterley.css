@@ -1,0 +1,57 @@
+#app .community .community__right-bar #header-panel-bar,
+#app .community .community__top{background:linear-gradient(to bottom,#da20d3 0,rgba(118, 32, 218,0.9) 0,#da20d3 200%)}
+#app .community .community__top .community__meta .community__name{color:#fff}
+#app-menu.in-room{background:linear-gradient(to bottom,#da20d3 0,rgba(118, 32, 218,0.8) 0,#da20d3 200%)no-repeat;background-size:200% 54px}
+
+#app .community .community__bottom,
+#app .community .community__bottom .bottom__playback-controls,
+#app .community .community__bottom .bottom__playback-meta{background:linear-gradient(to bottom,#da20d3 0,rgba(118, 32, 218,0.9) 0,#da20d3 200%)}
+#app .community .community__bottom .community__playlist--desktop{background:linear-gradient(to bottom,rgba(118, 32, 218,0.9) 0,#da20d3 200%)}
+#app .community .community__bottom .community__playlist--desktop>i{color:#fff}
+
+
+.nav-left__item.selected .nav-left__item-icon,
+.nav-left__item.selected .nav-left__item-text {
+    color: #3d9cde!important;
+}
+
+.community .community__song-playing-progress .progress .progress-bar,
+[data-view=room] .bottom__playback-controls .volume-bar .progress .progress-bar {
+    background-color: #fff!important;
+}
+
+.nav-left__item.selected {
+    border-left: 2px solid #7620da!important;
+}
+
+.nav-left__item {
+    color: #fff!important;
+    opacity: 1!important;
+}
+
+.community .friends .list .row {
+    border-bottom: 1px solid rgba(255, 255%, 255%, .1);
+}
+
+.nav-left__item:hover {
+    background: linear-gradient(hsla(302, 74%, 49%, 0.5), hsla(268, 74%, 49%, 0.5))!important;
+    opacity: 1;
+    border-left: 2px solid #7620da!important;
+}
+
+.nav-left .download-app {
+    background: linear-gradient(hsla(302, 74%, 49%, 0.5), hsla(268, 74%, 49% 0.5))!important;
+}
+
+.nav-left__item.selected {
+    background: linear-gradient(hsla(302, 74%, 49%, 0.5), hsla(268, 74%, 49%, 0.5))!important;
+}
+
+.community__left-nav,
+.user-level-dropdown__bottom,
+.user-profile-dropdown,
+.user-level-dropdown,
+.nav-left {
+    background:linear-gradient(to bottom,#da20d3 0,rgba(118, 32, 218,0.9) 0,#da20d3 200%)
+}
+
