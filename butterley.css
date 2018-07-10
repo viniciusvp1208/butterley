@@ -55,3 +55,6 @@
     background:linear-gradient(to bottom,#da20d3 0,rgba(118, 32, 218,0.9) 0,#da20d3 200%)
 }
 
+#app{background:url(https://imgur.com/VQg0KHX.jpg)center/cover no-repeat}
+#app .community .left-side-wrapper{background:0 0}
+#dj-booth{background:url(https://fimplug.net/theme/images/booth.png)20px 125px no-repeat;background-size:300px}
