@@ -365,3 +365,25 @@ margin-left: 0px!important;
 #app{background:url(https://imgur.com/VQg0KHX.jpg)center/cover no-repeat}
 #app .community .left-side-wrapper{background:0 0}
 #dj-booth{background:url(https://fimplug.net/theme/images/booth.png)20px 125px no-repeat;background-size:300px}
+
+
+-------------------------/* Custom Badges */------------------------------
+/*Butter Cup*/
+[data-cid^="35641504-"] .badge-box .bdg,
+#user-rollover.id-35641504 .badge-box .bdg {
+    border-radius: 5px;
+    background-size: cover;
+    background-repeat: repeat;
+    background-position: center;
+    background-image: url("https://cdn.discordapp.com/attachments/428966525580476421/468080351735054337/bdg-s20.png");
+}  
+
+/*Groot*/
+[data-cid^="24738397-"] .badge-box .bdg,
+#user-rollover.id-24738397 .badge-box .bdg {
+    border-radius: 5px;
+    background-size: cover;
+    background-repeat: repeat;
+    background-position: center;
+    background-image: url("https://cdn.discordapp.com/attachments/428966525580476421/468080934592315412/bdg-beachb-e01.gif");
+} 
